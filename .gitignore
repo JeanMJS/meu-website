@@ -31,7 +31,7 @@ meios de comunicação
 * .py [ cod ]
 * $py.class
 
-# Distribuição/embalagem
+# Distribuição/embalagem #
 .Compilação  Python /
 desenvolver-ovos /
 dist . /
@@ -50,11 +50,11 @@ rodas /
 * .manifesto
 * .spec
 
-# Logs do instalador
+# Logs do instalador #
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Teste de unidade / relatórios de cobertura
+# Teste de unidade / relatórios de cobertura #
 htmlcov /
 .tox /
 .cobertura
@@ -69,16 +69,16 @@ cobertura.xml
 # Notebook Jupyter
 .ipynb_checkpoints
 
-#pyenv _
+#pyenv _ #
 .python-version
 
-# aipo
+# aipo #
 aipo-schedule. *
 
 # Arquivos analisados ​​pelo SageMath
 * .sage.py
 
-# Ambientes
+# Ambientesv #
 .env
 .venv
 ambiente /
@@ -87,7 +87,7 @@ ENV /
 env.bak /
 venv.bak /
 
-# documentação do mkdocs
+# documentação do mkdocs #
 / local
 
 #mypy _
@@ -100,10 +100,10 @@ venv.bak /
 * .sublime-workspace
 * .sublime-project
 
-# arquivo de configuração sftp
+# arquivo de configuração sftp #
 sftp-config.json
 
-# Pacote de arquivos específicos de controle de pacote
+# Pacote de arquivos específicos de controle de pacote #
 Control.última execução
 Control.ca-list
 Control.ca-pacote
@@ -118,7 +118,7 @@ GitHub.sublime-settings
 ! .vscode / extensões.json
 .história
 
-# Adições pessoais
+# Adições pessoais #
 __pycache__ /
 * .pyc
 __localcode
@@ -133,5 +133,4 @@ db.sqlite3
 estático /
 
 # banco de dados #
-
 !db.sqlite3
